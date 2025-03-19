@@ -1,0 +1,14 @@
+C:\Users\maclo\Downloads\Projeto_c\bin\Debug\net9.0\Projeto_c.exe
+C:\Users\maclo\Downloads\Projeto_c\bin\Debug\net9.0\Projeto_c.deps.json
+C:\Users\maclo\Downloads\Projeto_c\bin\Debug\net9.0\Projeto_c.runtimeconfig.json
+C:\Users\maclo\Downloads\Projeto_c\bin\Debug\net9.0\Projeto_c.dll
+C:\Users\maclo\Downloads\Projeto_c\bin\Debug\net9.0\Projeto_c.pdb
+C:\Users\maclo\Downloads\Projeto_c\obj\Debug\net9.0\Projeto_c.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\maclo\Downloads\Projeto_c\obj\Debug\net9.0\Projeto_c.AssemblyInfoInputs.cache
+C:\Users\maclo\Downloads\Projeto_c\obj\Debug\net9.0\Projeto_c.AssemblyInfo.cs
+C:\Users\maclo\Downloads\Projeto_c\obj\Debug\net9.0\Projeto_c.csproj.CoreCompileInputs.cache
+C:\Users\maclo\Downloads\Projeto_c\obj\Debug\net9.0\Projeto_c.dll
+C:\Users\maclo\Downloads\Projeto_c\obj\Debug\net9.0\refint\Projeto_c.dll
+C:\Users\maclo\Downloads\Projeto_c\obj\Debug\net9.0\Projeto_c.pdb
+C:\Users\maclo\Downloads\Projeto_c\obj\Debug\net9.0\Projeto_c.genruntimeconfig.cache
+C:\Users\maclo\Downloads\Projeto_c\obj\Debug\net9.0\ref\Projeto_c.dll
