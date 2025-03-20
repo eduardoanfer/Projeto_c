@@ -1,20 +1,63 @@
-﻿using System.Reflection.Metadata;
+﻿ using System.Reflection.Metadata;
+using System.Runtime.InteropServices;
+using Projeto_c.Models;
 using Projeto_c.Pessoa; 
- 
-using Projeto_c.Models; 
+ Arrays arro= new Arrays();
+// using Projeto_c.Models; 
+// Calculadora calc = new Calculadora(); 
+// Repeticao rep = new Repeticao();
 
-Calculadora calc = new Calculadora(); 
+// calc.Somar(2,3); 
+// calc.Multiplicar(2,4);
+// calc.Subtracao(4,2);
+// calc.potencia(3,3);
+// calc.seno(60);
+// calc.coseno(60);
+// calc.tangente(60);
+// calc.raiz(25);
+// //rep.repetir(10);
+// rep.repetindo01(10);
+// rep.repetindo02();
 
-calc.Somar(2,3); 
-calc.Multiplicar(2,4);
-calc.Subtracao(4,2);
+string opcao; 
+bool ExibirMenu= true; 
+while(ExibirMenu){
+    
+    Console.WriteLine("Digite sua opção:    ");
+    Console.WriteLine("1- cadastrar cliente");
+    Console.WriteLine("2- buscar cliente");
+    Console.WriteLine("3- Apagar Cliente");
+    Console.WriteLine("4- Encerrar");
+    
+    opcao = Console.ReadLine(); 
+    switch(opcao)
+    {
+       case "1": 
+       Console.WriteLine("O cliente foi Cadastrado"); 
+       break;
+       case "2": 
+       Console.WriteLine("Buscando Cliente....");
+       arro.Listonas(2);
+       break;
+       case "3": 
+       //Console.WriteLine("Apagando Cliente....");
+        arro.arryss();
+        break;
+       case "4": 
+       Console.WriteLine("Encerrando o Acesso....");
+       //Environment.Exit(0);//encerra o programa
+       ExibirMenu=false;
+       break;
+        
 
 
+       default:
+       Console.WriteLine("opcao invalida");
+       break;
+    }
 
 
-
-
-
+}
 
 
 
